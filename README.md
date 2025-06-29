@@ -49,13 +49,17 @@ nlp_sentiment_analysis/
 
 
 ### 🛠 Technologies Used
-- Python
-- pandas, numpy – Data manipulation and analysis
-- matplotlib, seaborn, wordcloud – Data visualization
-- nltk, spacy – Text preprocessing and NLP utilities
-- gensim – Word2Vec embeddings
-- scikit-learn – Machine learning models and evaluation
-- Jupyter Notebook – Interactive experimentation
+
+  | Área              | Herramientas y librerías |
+|-------------------|--------------------------|
+| Manipulación de datos | `pandas`, `numpy` |
+| Visualización | `matplotlib`, `seaborn`, `plotly` |
+| Text preprocessing | `nltk`,` spacy` |
+| gensim | `Word2Vec embeddings`  |
+| scikit-learn | Machine learning models and evaluation|
+| Entorno | `Google Colab`, `Jupyter Notebooks` |
+
+---
 
 ### 📌 Future Improvements
 * Integrate TF-IDF or pretrained embeddings
