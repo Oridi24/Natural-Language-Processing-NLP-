@@ -23,7 +23,7 @@
    - *Designed for reusability and clarity*
 
 3. ***Model Training and Evaluation***:
-    -*Binary sentiment classification (positive vs negative)
+    -*Binary sentiment classification (positive vs negative)*
    - *2 different types of vectorization (`CountVectorizer`,  `TF-IDF`).*
    - *Training of 4 different models (KNN, Logistic Regression, Random Forest, SVM).*
    - *Evaluation based on metrics: precision, recall, F1-score.*
