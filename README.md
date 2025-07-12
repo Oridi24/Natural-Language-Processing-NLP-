@@ -33,6 +33,14 @@
    - *Metric comparison and final model selection*
    - *Strengths, weaknesses, and limitations of the approach*
    - *Suggestions for future improvements*
+     
+## 🧠 *Quick Conclusions*:
+
+- *Linguistic preprocessing is key to cleaning text and improving vectorization quality.*
+- *Class balancing was essential to obtain fair predictions in both classes.*
+- *`TF-IDF` helps discriminate relevant words, but in this case, `CountVectorizer` with Random Forest offered the best performance.*
+- *Ensemble models like `Random Forest` are highly effective for text when there is sufficient data volume.*
+
 
 
 ##  ⚙️ *Technologies Used*
