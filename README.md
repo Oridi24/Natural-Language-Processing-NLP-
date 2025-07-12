@@ -50,8 +50,9 @@
 
 ### *Future Improvements*
 
-* *Experiment with deep learning models (LSTM, BERT)*
-* *Deploy as an API for real-time sentiment classification*
+* *Incorporate pre-trained embeddings (word2vec, GloVe, BERT) to capture the semantic context.*
+* *Explore Deep Learning architectures (CNNs, RNNs, Transformers)*.
+* *Deploy as an API for real-time sentiment classification.*
 
 ## ⚠️ *Disclaimer*
 *This project was developed as part of an academic exercise to reinforce practical skills in Natural Language Processing (NLP) and applied Machine Learning. The dataset used is publicly available and attributed to [Julian McAuley (University of California, San Diego)](https://jmcauley.ucsd.edu/data/amazon/).*
