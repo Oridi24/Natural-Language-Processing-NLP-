@@ -63,8 +63,6 @@
 * *Deploy as an API for real-time sentiment classification.*
 
 ## ⚠️ *Disclaimer*
-*This project was developed as part of an academic exercise to reinforce practical skills in Natural Language Processing (NLP) and applied Machine Learning. The dataset used is publicly available and attributed to [Julian McAuley (University of California, San Diego)](https://jmcauley.ucsd.edu/data/amazon/).*
-
-*Course instructors provided some portions of the code, and they have been reused where appropriate. Additionally, AI-assisted tools were used to complement the development process in line with academic integrity and learning objectives*.
+ *The dataset used is publicly available and attributed to [Julian McAuley (University of California, San Diego)](https://jmcauley.ucsd.edu/data/amazon/).*
 
 
